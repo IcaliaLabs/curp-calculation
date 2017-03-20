@@ -33,11 +33,11 @@ let mLname = "Sanchez"
 // YYYY-MM-DD
 let bDate = "1990-04-28"
 
-// H for Men or M for Women
-let gender = "H"
+// male or female
+let gender = "male"
 
 // Complete state name
-let bState = "Monterrey"
+let bState = "Nuevo León"
 
 let result = new curp(name, pLname, mLname, bDate, gender, bState)
 console.log(result.curp)
