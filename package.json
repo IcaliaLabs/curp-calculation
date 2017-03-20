@@ -1,0 +1,21 @@
+{
+  "name": "curp-calculation",
+  "description": "Calculates mexican CURP.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IcaliaLabs/curp-calculation.git"
+  },
+  "main": "lib/curp-calculation.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "nodeunit": "^0.11.0"
+  },
+  "keywords": [
+    "curp",
+    "calculation"
+  ]
+}
