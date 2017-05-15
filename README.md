@@ -1,3 +1,5 @@
+![Made with Love by Icalia Labs](https://img.shields.io/badge/With%20love%20by-Icalia%20Labs-ff3434.svg)
+
 # curp-calculation
 
 `curp-calculation` is a JavaScript dependency for calculating mexican CURP.
